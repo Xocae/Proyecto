@@ -1,2 +1,1 @@
-# Proyecto
-Avance de Proyecto SO
+Proyecto SO
